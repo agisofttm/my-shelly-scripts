@@ -6,9 +6,9 @@ A Shelly Plus 1 (receiver) device with the LoRa Add-on is connected to the Inter
 A Shelly Plus 1PM (sender) device with the LoRa Add-on has no direct Internet connectivity and is used to transmit the measured energy readings, as well as to be controlled via the LoRa connection.
 
 Notes:
-	1.	The LoRa settings on both Shelly devices must be identical.
-	2.	Both devices must have the “Accept via LoRa” option enabled.
-	3.	Please configure the transmission interval to be at least 1 or 5 minutes.
+1. The LoRa settings on both Shelly devices must be identical.
+2. Both devices must have the “Accept via LoRa” option enabled.
+3. Please configure the transmission interval to be at least 1 or 5 minutes.
 
  TO Do:
  1. AES encryption
